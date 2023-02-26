@@ -1,3 +1,4 @@
+# Instagram influencer analysis
 ## About Dataset
 The Top Instagram Accounts Dataset is a collection of 200 rows of data that provides valuable insights into the most popular Instagram accounts across different categories. The dataset contains several columns that provide comprehensive information on each account's performance, engagement rate, and audience size.
 
